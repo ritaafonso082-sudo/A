@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Casa da Arriba",
+    "description": "Uma moradia unifamiliar suspensa sobre o mar, integrando-se na paisagem através do uso de betão aparente e grandes panos de vidro que dissolvem a fronteira entre interior e exterior.",
+    "thumbnail": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "year": "2024",
+    "location": "Cascais, Portugal"
+  },
+  {
+    "id": "2",
+    "title": "Refúgio no Douro",
+    "description": "Intervenção cirúrgica numa estrutura pré-existente nos socalcos do Douro. A madeira e o xisto dominam a materialidade do projeto, garantindo uma abordagem sustentável e de respeito absoluto pelo património duriense.",
+    "thumbnail": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1613490908578-8314ba98418f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1510798831971-661eb04b3739?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "year": "2023",
+    "location": "Peso da Régua, Portugal"
+  },
+  {
+    "id": "3",
+    "title": "Sede Corporativa LX",
+    "description": "Edifício de escritórios no coração de Lisboa. A fachada cinética adapta-se à exposição solar, otimizando o consumo energético do edifício. O interior promove o coworking através de amplos espaços vazados.",
+    "thumbnail": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "year": "2022",
+    "location": "Lisboa, Portugal"
+  }
+]

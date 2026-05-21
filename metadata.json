@@ -1,0 +1,6 @@
+{
+  "name": "Architecture Portfolio",
+  "description": "A minimal architecture portfolio with a project gallery and an admin panel for managing projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
